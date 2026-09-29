@@ -16,24 +16,23 @@ This repository contains a lot of useful resources and information about OG Fort
 - [Eon (Chapter 2, Season 7)](https://discord.gg/eonfn)
 - [Neo (Chapter 1, Season X)](https://discord.gg/neofn)
 
-## Self Hosted Servers/Projects [(what is a gameserver?)](https://github.com/Twin1dev/awesome-ogfn/blob/main/GLOSSARY.md#gameserver)
+## Self Hosted Servers/Projects 
 
 - ⭐ [Erbium (Universal, S3-S29)](https://github.com/plooshi/Erbium) | [Discord](https://discord.gg/WxNEGBxfKq)
 - [Reboot (Universal, S3-S19)](https://github.com/Milxnor/Project-Reboot-3.0) | [Discord](https://discord.gg/rebootmp)
 
-## Open Source Backends [(what is a backend?)](https://github.com/Twin1dev/awesome-ogfn/blob/main/GLOSSARY.md#backend)
+## Open Source Backends 
 
 - ⭐ [LawinServer](https://github.com/Lawin0129/LawinServer) | [LawinServerV2](https://github.com/Lawin0129/LawinServerV2) | [Discord](https://discord.gg/XAWyQVqBMU)
 - [Reload](https://github.com/Project-Reload/Reload-Backend) | [Discord](https://discord.gg/Wgyjc5dhpr)
 - [Nexa](https://github.com/andr1ww/Nexa)
 
-## Open Source Launchers [(what is a launcher?)](https://github.com/Twin1dev/awesome-ogfn/blob/main/GLOSSARY.md#launcher)
+## Open Source Launchers 
 
 - ⭐ [Reboot Launcher](https://github.com/Auties00/Reboot-Launcher/releases) | [Discord](https://discord.gg/rebootmp)
 - [Erbium Launcher](https://github.com/andr1ww/Erbium.Launcher) | [Discord](https://discord.gg/WxNEGBxfKq)
 
-## Redirects [(what is a redirect?)](https://github.com/Twin1dev/awesome-ogfn/blob/main/GLOSSARY.md#redirect)
-
+## Redirects 
 - ⭐ [Sinum (Windows, iOS, Android)](https://github.com/projectnovafn/Sinum)
 - [Tellurium (Windows)](https://github.com/plooshi/Tellurium)
 - [Paradise (Windows)](https://github.com/andr1ww/Paradise)
