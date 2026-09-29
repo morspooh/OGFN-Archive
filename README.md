@@ -18,7 +18,7 @@ This repository contains a lot of useful resources and information about OG Fort
 ## Hosted Servers/Projects
 
 > [!Note]
-> Please do not open pull requests or issues asking me to add a server. DM me on discord @t1dv
+> Please do not open pull requests or issues asking me to add a server. DM me on discord @79xf
 
 - [BYND (Chapter 1, Season X)](https://discord.gg/ogfn)
 - [Stellar (Chapter 2, Season 2)](https://discord.gg/stellarfn)
