@@ -100,7 +100,7 @@ This repository is provided for educational, archival, and informational purpose
 
 The inclusion of any project, server, website, or resource does not imply ownership, endorsement, or partnership by the owners of this repository. All credit for original content and intellectual property belongs to its respective owners.
 
-If you are the owner of any content referenced here and would like it removed or modified, please contact @t1dv on Discord.
+If you are the owner of any content referenced here and would like it removed or modified, please contact @79xf on Discord.
 
 ## Credits
 
