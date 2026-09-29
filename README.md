@@ -1,7 +1,5 @@
 # This Is My Ogfn Archive With Loads Of Stuff Like Backend GameServers Matchmakers etc Dm Me On discord User 79xf for help!
-# awesome-ogfn
-
-![Awesome](https://awesome.re/badge.svg) ![GitHub Repo stars](https://img.shields.io/github/stars/Twin1dev/awesome-ogfn)
+# stuff
 
 This repository contains a lot of useful resources and information about OG Fortnite, including private server projects, backends, launchers, build archives, and other community-made tools.
 
